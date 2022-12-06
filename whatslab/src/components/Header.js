@@ -1,5 +1,5 @@
 import React from "react";
-import { Header } from "./style";
+import { Header } from "../style/styled";
 import logo from "./logo.png"
 
 
