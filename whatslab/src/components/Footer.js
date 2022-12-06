@@ -1,6 +1,5 @@
 import React from "react";
-import {TagFooter} from "./style"
-
+import {TagFooter} from "../style/styled"
 
 function Footer(){
     return(

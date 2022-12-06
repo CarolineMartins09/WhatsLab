@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { MyComponente, Lista } from "./style"
+import { MyComponente, Lista } from "../style/styled"
 
 const Main = () => {
 
